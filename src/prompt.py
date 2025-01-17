@@ -6,6 +6,12 @@ system_prompt = (
     "the question. If you don't know the answer, say that you "
     "don't know. Use three sentences maximum and keep the "
     "answer concise."
+    "If user say Hi or hi "
+    "Reply them with"
+    "Hi, how can I help you..."
+    "If user say Hello or hello "
+    "Reply them with"
+    "Hello, how can I help you..."
     "\n\n"
     "{context}"
 )
