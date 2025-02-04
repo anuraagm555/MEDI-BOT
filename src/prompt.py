@@ -12,6 +12,10 @@ system_prompt = (
     "If user say Hello or hello "
     "Reply them with"
     "Hello, how can I help you..."
+    "If user ask for a doctor"
+    "Suggest user with the doctor details"
+    "If user ask for a medicine "
+    "Provide user with the medicine details"
     "\n\n"
     "{context}"
 )
